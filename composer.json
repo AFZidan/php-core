@@ -1,5 +1,5 @@
 {
-	"name": "fleshgrinder/core",
+	"name": "ahmedzidan/php-core",
 	"description": "Disable default behavior of PHP objects.",
 	"license": "Unlicense",
 	"authors": [
